@@ -1,5 +1,5 @@
 """
-LINK: 
+LINK: https://leetcode.com/problems/palindrome-number/description/
 Given an integer x, return true if x is a palindrome, and false otherwise.
 
 
@@ -44,3 +44,10 @@ class Solution(object):
 
 num = Solution()
 print(num.isPalindrome(1221))
+
+
+"""
+Time complexity is O(log10 (n))
+Space complexity is O(1)
+
+"""
